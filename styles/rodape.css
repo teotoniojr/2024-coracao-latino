@@ -1,0 +1,8 @@
+.rodape{
+    background-color: var(--cor-5);
+    color: var(--cor-6);
+    padding: 2em 0 1em 2em;
+}
+.rodape-texto{
+    font-size: 2em;
+}
